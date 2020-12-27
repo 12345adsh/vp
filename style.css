@@ -1,0 +1,46 @@
+body{
+   
+    background-color: aqua;
+}
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 20px;
+}
+
+.book_info {
+    background-color: greenyellow;
+    margin-top: -20px;
+}
+
+.book{
+ cursor: pointer;
+background-color: aqua;
+    margin-top: -10px;
+}
+space{
+    background-color: aqua;
+    width: 25%;
+}
+environment_li
+{
+  margin-top: 13px;
+}
+
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img
+{
+  border-radius: 25px;
+}
+
+.environment_li p
+{
+  margin-top:10px;
+}
